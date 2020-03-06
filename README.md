@@ -44,7 +44,7 @@ v1.0.0
 
 ## Authors
 
-* **Damian Brito** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Damian Brito** - *Initial work* 
 
 See also the list of contributors who participated in this project.
 
