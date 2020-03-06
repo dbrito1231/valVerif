@@ -5,7 +5,7 @@ all grab input from JavaFX TextField objects that a GUI would use.  Each method 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. If you have the pre-requisites already, just download and add add class to code.
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@ v1.0.0
 
 ## Authors
 
-* **Damian Brito** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Damian Brito** - *Initial work* 
 
 See also the list of contributors who participated in this project.
 
